@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\uber\uber\bin\Debug\uber.exe.config
+C:\Users\Section2\source\repos\uber\uber\bin\Debug\uber.exe
+C:\Users\Section2\source\repos\uber\uber\bin\Debug\uber.pdb
+C:\Users\Section2\source\repos\uber\uber\obj\Debug\uber.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\uber\uber\obj\Debug\uber.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\uber\uber\obj\Debug\uber.exe
+C:\Users\Section2\source\repos\uber\uber\obj\Debug\uber.pdb
